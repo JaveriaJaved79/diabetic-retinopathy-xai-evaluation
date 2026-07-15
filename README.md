@@ -1,4 +1,4 @@
-# Evaluation of Explainability Methods for Diabetic Retinopathy Classification
+# Deep Learning and Explainable AI for Diabetic Retinopathy Classification
 An end-to-end research pipeline that trains three CNN architectures on diabetic retinopathy detection (APTOS 2019 dataset), then quantitatively evaluates three explainability methods (Grad-CAM, SHAP, LIME) measuring both their similarity with each other and their faithfulness to the model's actual decision-making process.
 
 ## Problem it addresses
